@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "facundofn1906",
+        "MONGO_PASSWORD": "MERNAPP",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "pk_live_51HO6qLAoHbrAfH4bQdzKSkG4crhIb0St8pOf67xrG3ploVVRgmYzIDvpLGwA5R6bqaKnSLflTfrfNCDQh4SujlLx00vsFqA936"
+    }
+}
