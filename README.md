@@ -9,15 +9,13 @@
   
 - Controllers
 
-- Product Model
-
 - Storing Data in Files Via the Model
 
 - Fetching Data from Files Via the Model
 
 - Creating the Shop Structure
 
-- Working on the Navigation
+- The Navigation
 
 - Registering the Routes
 
@@ -50,8 +48,6 @@
 - Displaying Cart Items on the Cart Page
 
 - Deleting Cart Items
-
-- What is MongoDB?
 
 - Creating the Database Connection
 
